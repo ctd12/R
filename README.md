@@ -1,8 +1,6 @@
 ### Python-ML-Modeling
-General machine learning models using python
+General machine learning models using python. Each folder includes a data set, a file of general information regarding the machine learning algorithm, and code using the model.
 
-_General SQL syntax, queries, and methodology to assist with work projects._
-
-Files:
-* **dates.sql:** Select statements to reference difference dates in time. Ex: first date of previous month.
-* **query_template.sql:** Template for creating a query; author, tables used, purpose, revision history, etc.
+_Folders:_
+* **Linear Regression** abc
+* **Logistic Regression** abc
