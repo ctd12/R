@@ -6,7 +6,7 @@ References and guides for various topics in R.
 
 * [Date Formats](#date-formats)
 * [Machine Learning](#machine-learning)
-  * [PCA](#pca)
+  * [Principal Component Analysis](#pca)
 * [Quatro Markdown](#quatro)
 
 ## Date Formats
@@ -35,7 +35,8 @@ Logistic Regression Walkthrough https://github.com/spsanderson/steveondata/blob/
 
 ### PCA
 
-https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579
+**Making Sense of Principal Component Analysis** [[Website](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579)]
+* Simple breakdown and explanation of what PCA is and why it's used.
  
 ## Quatro
 
