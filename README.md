@@ -24,8 +24,11 @@ Data Analysis Examples https://stats.oarc.ucla.edu/other/dae/
 
 Models Demystified https://m-clark.github.io/book-of-models/
 
+Modern Data Science with R https://mdsr-book.github.io/mdsr3e/
 
+Applied Machine Learning Using mlr3 in R https://mlr3book.mlr-org.com/
 
+Applied Machine Learning for Tabular Data https://aml4td.org/
  
 ## Quatro
 
