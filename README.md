@@ -5,6 +5,7 @@ References and guides for various topics in R.
 ## What's in this Repository?
 
 * [Date Formats](#date-formats)
+* [ggplot2](#ggplot2)
 * [Machine Learning](#machine-learning)
   * [Principal Component Analysis](#pca)
 * [Quatro Markdown](#quatro)
@@ -14,6 +15,11 @@ References and guides for various topics in R.
 **Date Formats in R** [[Website](https://www.r-bloggers.com/2013/08/date-formats-in-r/)]
 * Conversions to call a date in various ways.
   * Example: %a &rarr; abbreviated weekday &rarr; Sun, Thu
+
+## ggplot2
+
+**ggplot2 Color Names** [[Website](https://sape.inf.usi.ch/quick-reference/ggplot2/colour)]
+* Color names and visuals for all colors in ggplot2
 
 ## Machine Learning
 
@@ -37,7 +43,7 @@ Logistic Regression Walkthrough https://github.com/spsanderson/steveondata/blob/
 
 **Making Sense of Principal Component Analysis** [[Website](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579)]
 * Simple breakdown and explanation of what PCA is and why it's used.
- 
+
 ## Quatro
 
 Quatro files (.qmd) are used to render R code and visuals to create HTML, PDF, and other files so others can read it.
