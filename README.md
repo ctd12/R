@@ -18,7 +18,7 @@ References and guides for various topics in R.
 
 ## ggplot2
 
-**ggplot2 Color Names** [[Website](https://sape.inf.usi.ch/quick-reference/ggplot2/colour)]
+**ggplot2 Colors** [[Website](https://sape.inf.usi.ch/quick-reference/ggplot2/colour)]
 * Color names and visuals for all colors in ggplot2
 
 ## Machine Learning
