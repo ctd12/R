@@ -6,6 +6,7 @@ References and guides for various topics in R.
 
 * [Date Formats](#date-formats)
 * [Machine Learning](#machine-learning)
+  * [PCA](#pca)
 * [Quatro Markdown](#quatro)
 
 ## Date Formats
@@ -31,6 +32,10 @@ Applied Machine Learning Using mlr3 in R https://mlr3book.mlr-org.com/
 Applied Machine Learning for Tabular Data https://aml4td.org/
 
 Logistic Regression Walkthrough https://github.com/spsanderson/steveondata/blob/a7073f6874947f5a20b17bc533237bcf58121749/posts/2023-10-26/index.qmd#L42
+
+### PCA
+
+https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579
  
 ## Quatro
 
