@@ -42,6 +42,10 @@ Applied Machine Learning for Tabular Data https://aml4td.org/
 
 Logistic Regression Walkthrough https://github.com/spsanderson/steveondata/blob/a7073f6874947f5a20b17bc533237bcf58121749/posts/2023-10-26/index.qmd#L42
 
+time series calendar heatmap https://www.spsanderson.com/healthyR.ts/reference/ts_calendar_heatmap_plot.html
+
+easystats https://easystats.github.io/easystats/
+
 ### PCA
 
 **Making Sense of Principal Component Analysis** [[Website](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579)]
