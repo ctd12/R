@@ -5,7 +5,7 @@ References and guides for various topics in R.
 ## What's in this Repository?
 
 * [Date Formats](#date-formats)
-* [Quatro]
+* [Quatro](#quatro)
 
 ## Date Formats
 
@@ -16,5 +16,9 @@ References and guides for various topics in R.
 ## Quatro
 
 Quatro files (.qmd) are used to render R code and visuals to create HTML, PDF, and other files so others can read it.
+
+**Markdown Basics** [[Website](https://quarto.org/docs/authoring/markdown-basics.html)]
+* Guide &rarr; Authoring
+  * Basics in Quatro Markdown files: Figures, Tables, Code Blocks, text formatting, etc.
 
 
