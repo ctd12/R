@@ -16,6 +16,9 @@ References and guides for various topics in R.
 * Conversions to call a date in various ways.
   * Example: %a &rarr; abbreviated weekday &rarr; Sun, Thu
 
+**Lubridate** [[Website](https://lubridate.tidyverse.org/reference/index.html)]
+* Lubridate makes it easier to do the things R does with date-times and possible to do the things R does not. Converting date-times, formatting dates, etc.
+ 
 ## ggplot2
 
 **ggplot2 Colors** [[Website](https://sape.inf.usi.ch/quick-reference/ggplot2/colour)]
