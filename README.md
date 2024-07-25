@@ -58,7 +58,7 @@ Forecasting book https://otexts.com/fpp3/
 Quatro files (.qmd) are used to render R code and visuals to create HTML, PDF, and other files so others can read it.
 
 **Markdown Basics** [[Website](https://quarto.org/docs/authoring/markdown-basics.html)]
-* Guide &rarr; Authoring
-  * Basics in Quatro Markdown files: Figures, Tables, Code Blocks, text formatting, etc.
+* Navigate to Guide &rarr; Authoring
+* Basics in Quatro Markdown files: Figures, Tables, Code Blocks, text formatting, etc.
 
 
