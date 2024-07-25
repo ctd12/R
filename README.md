@@ -46,6 +46,8 @@ time series calendar heatmap https://www.spsanderson.com/healthyR.ts/reference/t
 
 easystats https://easystats.github.io/easystats/
 
+Forecasting book https://otexts.com/fpp3/
+
 ### PCA
 
 **Making Sense of Principal Component Analysis** [[Website](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579)]
