@@ -49,7 +49,7 @@ easystats https://easystats.github.io/easystats/
 
 ### Forecasting
 
-**Forecasting: Principles and Practice 3rd Edition** [[Online Textbook](https://otexts.com/fpp3/)]
+**Forecasting: Principles and Practice 3rd Edition** by Rob J Hyndman and George Athanasopoulos [[Online Textbook](https://otexts.com/fpp3/)] 
 * Focuses on forecasting using different models and visualizations in R. Dives deep into each model, with explanations as to what they are, when to use them, etc.
 * Includes an intro to what forecasting is, case studies, exercises, and more.
 * It's dense enough to provide enough information to aid in forecasting, but not too much where the reader gets lost in the text.
